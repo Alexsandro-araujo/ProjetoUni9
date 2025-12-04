@@ -7,8 +7,7 @@
 Este é um projeto desenvolvido para a faculdade com o objetivo de praticar desenvolvimento web utilizando **HTML**, **CSS**, **JavaScript** e consumo de **APIs públicas**.
 
 ---
-## 🎥 Demonstração do Site
-👉 https://seminaa.netlify.app/
+
 ## 🚀 Tecnologias Utilizadas
 
 - **HTML5**
@@ -17,7 +16,8 @@ Este é um projeto desenvolvido para a faculdade com o objetivo de praticar dese
 - **APIs Públicas**
 
 ---
-
+## 🎥 Demonstração do Site
+👉 https://seminaa.netlify.app/
 ## 🔗 APIs Utilizadas
 
 - **Embedder**
