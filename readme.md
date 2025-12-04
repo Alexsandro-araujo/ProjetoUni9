@@ -1,7 +1,6 @@
-# 🌐 Projeto de Site – Faculdade
+# 🌐 ProjetoUni9 – Faculdade  
 
-Este é um projeto desenvolvido para a faculdade, com o objetivo de praticar desenvolvimento web utilizando **HTML**, **CSS**, **JavaScript** e consumo de **APIs públicas**.  
-O projeto foi criado exclusivamente para fins de estudo, sem qualquer intenção lucrativa.
+Este é um projeto desenvolvido para a faculdade, com o objetivo de praticar desenvolvimento web utilizando **HTML, CSS, JavaScript** e consumo de **APIs públicas**.
 
 ---
 
@@ -10,28 +9,32 @@ O projeto foi criado exclusivamente para fins de estudo, sem qualquer intenção
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- **APIs Públicas**
+- **API Pública**
 
 ---
 
 ## 🔗 APIs Utilizadas
 
-Foram utilizados recursos e serviços públicos para obtenção de conteúdos dinâmicos:
-
 - **Embedder**
 - **SuperFlix API**
-- **Playerinfo Online**
-
-Essas APIs foram utilizadas para permitir acesso a conteúdo externo diretamente no site.
+- **PlayerInfo Online**
 
 ---
 
 ## 🎥 Demonstração do Site
 
-### ▶ Vídeo da Demonstração  
-Clique para assistir:
+### ▶ Assista ao vídeo da demonstração
 
-[**👉 Assistir vídeo**](imgs/uni9.mp4)
+[👉 Clique aqui para assistir ao vídeo](imgs/uni9.mp4)
 
-Ou visualize direto pelo GitHub (caso esteja dentro da pasta `imgs/`):
+> O GitHub não permite visualizar `.mp4` como imagem, mas **abre o player ao clicar no link**.
 
+Se quiser que apareça direto no README, você pode usar **GIF** — posso gerar para você se quiser!
+
+---
+
+## 👨‍💻 Autor  
+**Alexsandro Araujo de Oliveira**
+
+Projeto de Extensão em Programação – UNI9  
+Trabalho sem fins lucrativos e apenas para estudos.
