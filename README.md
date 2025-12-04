@@ -1,11 +1,11 @@
 # 🎥 Demonstração do Projeto
 
-https://github.com/SEU_USUARIO/SEU_REPOSITORIO/raw/main/imgs/uni9.mp4
+<img width="1892" height="922" alt="uni9" src="https://github.com/user-attachments/assets/9c00ceb0-0060-426a-924a-a70dc7deeb64" />
+<img width="1903" height="912" alt="cadastro" src="https://github.com/user-attachments/assets/c0a91581-4918-4b74-a11f-75b9f147075a" />
+<img width="1892" height="922" alt="catalogo" src="https://github.com/user-attachments/assets/5492b9fe-1c51-4f7a-8f31-6a07a53cbb48" />
+<img width="1898" height="913" alt="marvel" src="https://github.com/user-attachments/assets/f8c98516-63fb-41d4-9e4e-2144850f795d" />
+<img width="1902" height="927" alt="comic" src="https://github.com/user-attachments/assets/4cf0d30f-e645-4836-88a3-97fb9064caba" />
 
-> 🔺 O video aparece no topo!  
-> Suba o arquivo **uni9.mp4** dentro da pasta `imgs/` do seu repositório para funcionar.
-
----
 
 # 🌐 Projeto de Site – Faculdade
 
@@ -31,14 +31,7 @@ Este é um projeto desenvolvido para a faculdade com o objetivo de praticar dese
 ---
 
 ## 🎥 Demonstração do Site
-
-### ▶ Vídeo da demonstração  
-Clique para assistir o vídeo diretamente:
-
-👉 `imgs/uni9.mp4`
-
-(Quando você enviar o vídeo para essa pasta, o GitHub mostra um player automático)
-
+👉 https://seminaa.netlify.app/
 ---
 
 ## 👨‍💻 Autor
